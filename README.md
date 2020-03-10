@@ -7,6 +7,7 @@ You will be working through a series of test-driven exercises, or koans, to lear
 You can get started with
 ```bash
 git clone git@github.com:LukeMathWalker/build-your-own-jira-with-rust.git
+cd build-your-own-jira-with-rust
 cargo install -f --path koans-framework 
 koans --path jira-wip
 ```
